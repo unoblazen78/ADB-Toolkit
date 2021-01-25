@@ -1,6 +1,5 @@
 #!/bin/bash
 #Tool = ADB-Toolkit V2.1
-#Author = ASHWINI SAHU
 #Date = 07/02/2020
 #Written in Bash
 #"ONLY FOR EDUCATIONAL PURPOSE"
